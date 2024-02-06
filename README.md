@@ -6,5 +6,5 @@ I am introducing this work in YouTube, if you are interested, please visit: http
 
 This is originally combined with REDS: Invariant Moments into a single paper, but now I think it is better to present it as a single paper.
 
-If you are interested, feel free to share it and contact tl@biomathematics.org, for more materials available by request. 
+If you are interested, feel free to share it or contact tl@biomathematics.org, for more materials available by request. 
 
