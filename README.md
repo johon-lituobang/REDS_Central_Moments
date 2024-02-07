@@ -8,5 +8,3 @@ Feel free to share it or contact tl@biomathematics.org, for more materials avail
 
 This is originally combined with REDS: Invariant Moments into a single paper, but now I think it is better to present it as a single paper.
 
-views count since 2024, February, 7th
-![Visitor Count](https://profile-counter.glitch.me/{tubanlee}/count.svg)
